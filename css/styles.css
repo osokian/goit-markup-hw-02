@@ -1,0 +1,83 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.clearfix::after {
+  display: table;
+  content: "";
+  clear: both;
+}
+
+* {
+  padding: 0px;
+  margin: 0px auto;
+}
+p {
+  color: #757575;
+}
+.logo-1 {
+  color: #2196f3;
+}
+.logo-2 {
+  color: #212121;
+}
+.logo-3 {
+  color: #fff;
+}
+header {
+  background-color: #fff;
+}
+.site-nav .link {
+  color: #212121;
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+.mail {
+  color: #757575;
+}
+.contact {
+  color: #757575;
+}
+.features {
+  background-color: #2f303a;
+}
+.tagline {
+  color: #fff;
+}
+.button {
+  color: #fff;
+  background-color: #2196f3;
+}
+.button:hover {
+  color: #2196f3;
+  background-color: #fff;
+}
+.section-1 {
+  background-color: #fff;
+}
+.section-2 {
+  background-color: #f5f4fa;
+}
+.section-3 {
+  background-color: #fff;
+}
+.footer {
+  background-color: #2f303a;
+}
+.adres {
+  color: #fff;
+}
+.mail-footer {
+  color: rgba(255, 255, 255, 0.6);
+}
+.contact-footer {
+  color: rgba(255, 255, 255, 0.6);
+}
