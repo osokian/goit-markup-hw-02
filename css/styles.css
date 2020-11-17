@@ -1,4 +1,3 @@
-
 html {
   box-sizing: border-box;
   height: 100%;
@@ -31,20 +30,18 @@ a {
 
 .logo-1 {
   font-family: Raleway;
-font-size: 26px;
-line-height: 1.19;
-color: #2196F3;
+  font-size: 26px;
+  line-height: 1.19;
+  color: #2196f3;
 
-letter-spacing: 0.03em;
-
-
+  letter-spacing: 0.03em;
 }
 .logo-2 {
   font-family: Raleway;
-font-style: normal;
-font-weight: bold;
-font-size: 26px;
-line-height: 1.19;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
   color: #212121;
 }
 .logo-3 {
@@ -72,12 +69,12 @@ color: #212121;
   display: inline-block;
 } */
 .link {
-text-decoration: none;
-font-family: Roboto;
-font-weight: 500;
-font-size: 14px;
-line-height: 1.14;
-letter-spacing: 0.02em;
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
 }
 .site-nav .link {
   color: #212121;
@@ -118,21 +115,21 @@ letter-spacing: 0.02em;
   color: #2196f3;
 }
 .container {
-width: 1600px;
-height: 600px;
-background: #2F303A;
+  width: 1600px;
+  height: 600px;
+  background: #2f303a;
 }
 .tagline {
   font-family: Roboto;
-font-style: normal;
-font-weight: 900;
-font-size: 34px;
-line-height: 1.36;
-/* or 136% */
-text-align: center;
-letter-spacing: 0.06em;
-text-transform: uppercase;
-color: #FFFFFF;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 1.36;
+  /* or 136% */
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 .button {
   font-family: Roboto;
@@ -187,10 +184,9 @@ p {
   background-color: #fff;
 }
 .section-2 {
-  
   /* width: 1600px;
   height: 800px; */
-  background: #F5F4FA;
+  background: #f5f4fa;
   background-color: #f5f4fa;
 }
 
@@ -198,7 +194,6 @@ p {
   background-color: #fff;
 }
 .footer {
-  
   background-color: #2f303a;
 }
 .adres {
