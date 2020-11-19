@@ -76,6 +76,20 @@ color: #212121;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
+.discript {
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 1.87;
+}
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+}
 .site-nav .link {
   color: #212121;
 }
